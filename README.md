@@ -12,3 +12,4 @@ Dans ce projet nous utilison un ensemble de données pour former un modèle CNN 
 * ![img](images/2.png)
 * ![img](images/1.png)
 * ![img](images/4.png)
+*  la comparaison des performances entre notre modèle et l'exemple de réseau neuronal dense doit être interprétée avec prudence. Les résultats de précision sont influencés par la taille limitée de notre ensemble de données (50 échantillons par classe) et la possible répartition aléatoire des échantillons entre les ensembles de formation et de test. Ainsi la sensibilité à la variation, où le déplacement d'un seul échantillon peut entraîner une variation significative de la précision de validation, souligne la nécessité d'un ensemble de données plus important.
