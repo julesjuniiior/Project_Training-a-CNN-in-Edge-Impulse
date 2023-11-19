@@ -11,4 +11,4 @@ Dans ce projet nous utilison un ensemble de données pour former un modèle CNN 
 
 * ![img](images/2.png)
 * ![img](images/1.png)
-* ![img](images/Capture d'écran 2023-11-19 031146.png)
+* ![img](images/4.png)
