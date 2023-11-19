@@ -4,6 +4,6 @@ Dans ce projet nous utilison un ensemble de données pour former un modèle CNN 
 ## 1e étape: Upload Dataset
 ## 2e étape: Create Impulse
 ## 3e étape: Extract Features
-* ![img]()
+* ![img](images/feature.png)
 ## 4e étape: Entrainement du modèle
 
